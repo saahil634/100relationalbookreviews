@@ -5,7 +5,7 @@ Inverse Notes for Relational Programming-Paradigm (RD)
 
 1. RPD is an approach to draw out systemic relationships between Entities in Harmony(H).
 2. Harmony(H) involves Convergence(C), Divergence (D) and Complimentarity (CL).
-3. Software Engineering and Design use RD to highlight instances of inter-connectedness(IC) between data clusters(DC).
+3. Software Engineering and Design use RPD to highlight instances of inter-connectedness(IC) between data clusters(DC).
 4. Interconnecteds(ICs) are represented through a JUMP library, which is an extension of GOTO fuction from C.
 5. The JUMP library includes index of relations(IoR) between and across different data clusters (DC).
 6. JUMP programming instances make quick movements of data across distributed file formats.
